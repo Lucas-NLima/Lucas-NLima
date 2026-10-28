@@ -31,10 +31,21 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Lucas-NLima/Lucas-NLima/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Lucas-NLima/Lucas-NLima/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-stats-extended.vercel.app/api?username=Lucas-NLima&show_icons=true&include_all_commits=true&theme=yeblu" height="180" alt="GitHub Stats" />
+      </td>
+      <td style="border: none;">
+        <img src="https://raw.githubusercontent.com/Lucas-NLima/Lucas-NLima/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ###
 
